@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/dimal/redfa/api.hpp
+string
+-
+set
+-
+
+/mnt/c/Users/dimal/redfa/task.cpp
+api.hpp
+/mnt/c/Users/dimal/redfa/api.hpp
+string
+-
+vector
+-
+map
+-
+set
+-
+stack
+-
+iostream
+-
+algorithm
+-
+

@@ -1,0 +1,7 @@
+/mnt/c/Users/dimal/redfa/CMakeFiles/install/strip.dir
+/mnt/c/Users/dimal/redfa/CMakeFiles/install/local.dir
+/mnt/c/Users/dimal/redfa/CMakeFiles/install.dir
+/mnt/c/Users/dimal/redfa/CMakeFiles/list_install_components.dir
+/mnt/c/Users/dimal/redfa/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dimal/redfa/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dimal/redfa/CMakeFiles/re2dfa.dir
